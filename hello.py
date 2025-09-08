@@ -1,1 +1,1 @@
-print("Hello from DevOps - updated")
+print("Hello from DevOps")
